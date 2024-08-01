@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Guitar",
+        "slug": "introduction-to-guitar",
+        "description": "Learn the basics of playing the guitar, including chords, strumming, and simple songs.",
+        "price": 49.99,
+        "instructor": "John Smith",
+        "isFeatured": true,
+        "image": "intro_to_guitar.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Advanced Piano Techniques",
+        "slug": "advanced-piano-techniques",
+        "description": "Master advanced piano techniques and improve your performance skills.",
+        "price": 79.99,
+        "instructor": "Jane Doe",
+        "isFeatured": false,
+        "image": "advanced_piano.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Vocal Training for Beginners",
+        "slug": "vocal-training-for-beginners",
+        "description": "Develop your vocal skills with exercises and techniques for beginners.",
+        "price": 59.99,
+        "instructor": "Mary Johnson",
+        "isFeatured": true,
+        "image": "vocal_training.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Music Theory 101",
+        "slug": "music-theory-101",
+        "description": "Understand the fundamentals of music theory, including notation, scales, and chords.",
+        "price": 39.99,
+        "instructor": "James Williams",
+        "isFeatured": false,
+        "image": "music_theory.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Drumming Basics",
+        "slug": "drumming-basics",
+        "description": "Learn the essential drumming techniques and rhythms.",
+        "price": 49.99,
+        "instructor": "Michael Brown",
+        "isFeatured": true,
+        "image": "drumming_basics.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Explore the art of songwriting and learn how to create your own music.",
+        "price": 69.99,
+        "instructor": "Emily Davis",
+        "isFeatured": false,
+        "image": "songwriting_essentials.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Improve your jazz improvisation skills with expert guidance.",
+        "price": 89.99,
+        "instructor": "William Wilson",
+        "isFeatured": true,
+        "image": "jazz_improvisation.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Learn the techniques of electronic music production and create your own tracks.",
+        "price": 99.99,
+        "instructor": "Sophia Martinez",
+        "isFeatured": false,
+        "image": "electronic_music.jpg"
+    }
+]
