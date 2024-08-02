@@ -1,3 +1,4 @@
+import FeaturedCourses from "@/Component/FeaturedCourses";
 import HeroSection from "@/Component/HeroSection";
 
 
@@ -8,6 +9,7 @@ export default function Home() {
       coffee with code
     </h1>
     <HeroSection></HeroSection>
+    <FeaturedCourses></FeaturedCourses>
     </main>
   );
 }
