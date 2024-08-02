@@ -76,7 +76,7 @@
         "description": "Learn the techniques of electronic music production and create your own tracks.",
         "price": 99.99,
         "instructor": "Sophia Martinez",
-        "isFeatured": false,
+        "isFeatured": true,
         "image": "electronic_music.jpg"
     }
 ]
