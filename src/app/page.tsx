@@ -1,5 +1,7 @@
 import FeaturedCourses from "@/Component/FeaturedCourses";
 import HeroSection from "@/Component/HeroSection";
+import SticyScrool from "@/Component/SticyScrool";
+
 
 
 export default function Home() {
@@ -10,6 +12,7 @@ export default function Home() {
     </h1>
     <HeroSection></HeroSection>
     <FeaturedCourses></FeaturedCourses>
+    <SticyScrool></SticyScrool>
     </main>
   );
 }
