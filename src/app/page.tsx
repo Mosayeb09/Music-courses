@@ -1,6 +1,7 @@
 import FeaturedCourses from "@/Component/FeaturedCourses";
 import HeroSection from "@/Component/HeroSection";
 import SticyScrool from "@/Component/SticyScrool";
+import TestimonialCards from "@/Component/TestimonialCards";
 
 
 
@@ -13,6 +14,7 @@ export default function Home() {
     <HeroSection></HeroSection>
     <FeaturedCourses></FeaturedCourses>
     <SticyScrool></SticyScrool>
+    <TestimonialCards></TestimonialCards>
     </main>
   );
 }
