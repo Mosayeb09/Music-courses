@@ -1,6 +1,8 @@
 import CardHoverEffect from "@/Component/CardHoverEffect";
 import FeaturedCourses from "@/Component/FeaturedCourses";
 import HeroSection from "@/Component/HeroSection";
+import Instractors from "@/Component/Instractors";
+import Instructors from "@/Component/Instructors";
 import SticyScrool from "@/Component/SticyScrool";
 import TestimonialCards from "@/Component/TestimonialCards";
 
@@ -17,6 +19,7 @@ export default function Home() {
     <SticyScrool></SticyScrool>
     <TestimonialCards></TestimonialCards>
     <CardHoverEffect></CardHoverEffect>
+    <Instructors></Instructors>
     </main>
   );
 }
