@@ -6,37 +6,37 @@ const instructor = [
       "id": 1,
       "name": "John Smith",
       "designation": "Guitar Instructor",
-      "image": "https://i.ibb.co/tbfQQJN/y-Kizq2e-Ji-WZVCq-Yvanxzg-Q.jpg"
+      "image": "https://cdns-images.dzcdn.net/images/artist/086f50bb1ce0e3033634e5e9c2d75462/1900x1900-000000-80-0-0.jpg"
     },
     {
       "id": 2,
       "name": "Emily Johnson",
       "designation": "Piano Instructor",
-      "image": "https://i.ibb.co/JBbXW8t/images.jpg"
+      "image": "https://i1.sndcdn.com/avatars-000117299196-gsyfij-t500x500.jpg"
     },
     {
       "id": 3,
       "name": "Michael Brown",
       "designation": "Vocal Coach",
-      "image": "https://i.ibb.co/0J16mjM/images-1.jpg"
+      "image": "https://choirlife.com/wp-content/uploads/2018/05/michael-brown-headshot.jpg?w=261&h=261"
     },
     {
       "id": 4,
       "name": "Sarah Davis",
       "designation": "Music Theory Instructor",
-      "image": "https://i.ibb.co/K0WjNPK/images-2.jpg"
+      "image": "https://static.wikia.nocookie.net/gaylepedia/images/d/d5/Sara_Davis.jpg/revision/latest?cb=20220328232623"
     },
     {
       "id": 5,
       "name": "David Wilson",
       "designation": "Jazz Improvisation Expert",
-      "image": "https://i.ibb.co/ZNBNYRQ/Hvyx3-DR4-400x400.jpg"
+      "image": "https://pbs.twimg.com/profile_images/1630338491664957441/Hvyx3DR4_400x400.jpg"
     },
     {
       "id": 6,
       "name": "Jessica Garcia",
       "designation": "Electronic Music Producer",
-      "image": "https://i.ibb.co/MS3Ctk6/MV5-BYWEy-OGZj-ZDUt-Nz-Mz-MC00-M2-Jm-LWFj-Ym-Qt-NGM3-MDQ4-Yz-U0-OGZm-Xk-Ey-Xk-Fqc-Gde-QXVy-Mj-Qw-MDg.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BYWEyOGZjZDUtNzMzMC00M2JmLWFjYmQtNGM3MDQ4YzU0OGZmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX1000_.jpg"
     }
   ]
   
