@@ -40,8 +40,10 @@ const Footer = () => {
                   
                 
                 </div>
+                
 
             </div>
+            <p className=" flex justify-center font-semibold text-center text-base mt-8 mb-8  ">© 2024 Music School. All right reserved.</p>
         </footer>
     );
 };
