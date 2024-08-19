@@ -7,7 +7,7 @@
         "price": 49.99,
         "instructor": "John Smith",
         "isFeatured": true,
-        "image": "intro_to_guitar.jpg"
+        "image": "https://www.libertyparkmusic.com/wp-content/uploads/Introduction-to-Guitar-Playing.png"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "price": 79.99,
         "instructor": "Jane Doe",
         "isFeatured": false,
-        "image": "advanced_piano.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTrd7pLiGPt2rFMNiVzrtCQeEf9WwpdtC6g&s"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "price": 59.99,
         "instructor": "Mary Johnson",
         "isFeatured": true,
-        "image": "vocal_training.jpg"
+        "image": "https://media.licdn.com/dms/image/D4D12AQFkeCpmZi9fMQ/article-cover_image-shrink_720_1280/0/1683020635061?e=2147483647&v=beta&t=RvAmgR1_WVJdOxSohO5SdbjZTfvrOs-yXhJJPEhnry8"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
         "price": 39.99,
         "instructor": "James Williams",
         "isFeatured": false,
-        "image": "music_theory.jpg"
+        "image": "https://m.media-amazon.com/images/I/41uy51-tLYL.jpg"
     },
     {
         "id": 5,
@@ -47,7 +47,7 @@
         "price": 49.99,
         "instructor": "Michael Brown",
         "isFeatured": true,
-        "image": "drumming_basics.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGaKoZzEa5pmjuDgiY_07hBGOIxfoNaJ-0uQ&s"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "price": 69.99,
         "instructor": "Emily Davis",
         "isFeatured": false,
-        "image": "songwriting_essentials.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5l7ukGoDQ6hYTiNGyhEPlJ59XtAhPhnFdg&s"
     },
     {
         "id": 7,
@@ -67,7 +67,7 @@
         "price": 89.99,
         "instructor": "William Wilson",
         "isFeatured": true,
-        "image": "jazz_improvisation.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF9wy00afSFTW0u4RQ_tysAUzFZSmVdyCKQ&s"
     },
     {
         "id": 8,
@@ -77,6 +77,6 @@
         "price": 99.99,
         "instructor": "Sophia Martinez",
         "isFeatured": true,
-        "image": "electronic_music.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxxBj3BtvndxBMdnA30jjsq7W9Td-gc2cvBQ&s"
     }
 ]
