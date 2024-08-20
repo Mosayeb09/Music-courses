@@ -18,6 +18,7 @@ module.exports = {
     './src/**/*.{ts,tsx}',],
   theme: {
     extend: {
+      
       animation: {
         spotlight: "spotlight 2s ease .75s 1 forwards",
         "meteor-effect": "meteor 5s linear infinite",
