@@ -1,8 +1,16 @@
+'use client'
+import React from "react";
+import { Meteors } from "@/Component/ui/meteors";
+import { BackgroundBeams } from "@/Component/ui/background-beams";
 const page = () => {
     return (
-        <div>
-            test 2
-        </div>
+        <div className="">
+          
+       <BackgroundBeams className=" bg-gray-900">
+         
+       </BackgroundBeams>
+       
+      </div>
     );
 };
 
