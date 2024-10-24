@@ -14,7 +14,7 @@ const Page = () => {
         </h1>
 
         <p className="pt-10 flex text-base justify-center text-center text-gray-400">
-          We’re here to help with any questions about our courses, programs, or
+          We're here to help with any questions about our courses, programs, or
           events. Reach out and let us know how we can assist you in your
           musical journey.
         </p>
