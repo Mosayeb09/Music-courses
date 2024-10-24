@@ -35,11 +35,11 @@ const FeaturedCourses = () => {
                         featuredCourse.map((course:Course)=>(
                         <div key={course.id} className='flex justify-center'>
                             <BackgroundGradient 
-                            className='flex flex-col rounded[22px] bg-white dark:bg-zinc-900 overflow-hidden h-full max-w-sm '>
-                            <div className='max-w-sm flex flex-col flex-grow items-center text-center mx-auto  bg-gradient-to-r from-blue-500 via-purple-700 to-pink-600 p-6 rounded-lg shadow-lg text-white'>
+                            className='flex flex-col rounded-lg bg-white dark:bg-zinc-900 overflow-hidden h-full max-w-sm '>
+                            <div className='max-w-sm flex flex-col flex-grow items-center text-center mx-auto  bg-gradient-to-r from-cyan-600 to-blue-600 p-6 rounded-lg shadow-lg text-white'>
                             <h1 className="text-2xl font-bold mb-2">{course.title}</h1>
                             <p className="text-base mb-4">{course.description}</p>
-                            <Link className='px-4 py-2 bg-white text-blue-500 font-semibold rounded-lg shadow-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75' href={`/couses/${course.slug}`}>
+                            <Link className='px-4 py-2 bg-white text-blue-500 font-semibold rounded-lg shadow-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75' href={`/couses/${course.slug}`}>
                             Learn more
                               
                             </Link>
